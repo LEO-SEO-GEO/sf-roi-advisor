@@ -1,263 +1,299 @@
-# Ecommerce & Retail — Melbourne Digital Marketing Guide
+# Hospitality & Food — Melbourne Digital Marketing Guide
 
-Covering: online stores, fashion, homewares, gifts, sporting goods,
-beauty products, health supplements, pet products, food and beverage,
-children's products, electronics, jewellery, furniture, art and craft
-
----
-
-## The Melbourne Ecommerce Market
-
-Melbourne is Australia's ecommerce capital. The city's high household
-income, early technology adoption, and dense population make it the
-strongest market for online retail in the country.
-
-But competition is fierce. Melbourne consumers are sophisticated shoppers
-who compare prices, read reviews, and research extensively before
-purchasing. Winning requires more than a good product — it requires
-showing up at every stage of the buying journey.
-
-**What makes Melbourne ecommerce unique:**
-- Australian ecommerce conversion rate averages only 1.78% —
-  below the global average of 1.88%
-- Mobile traffic is high but converts poorly (2.9% vs 4.8% desktop)
-- Melbourne consumers are among the most active Black Friday shoppers
-  in Australia
-- Fashion and apparel is Melbourne's strongest ecommerce category
-- Sustainability and Australian-made are strong purchase motivators
-  for Melbourne consumers
-- ProductReview.com.au carries significant weight for considered
-  purchases — AI tools check it first for Australian brand credibility
+Covering: cafés, restaurants, bars, pubs, catering, food delivery,
+bakeries, patisseries, events venues, private dining, food trucks,
+breweries, wineries, cooking schools
 
 ---
 
-## What Actually Works for Melbourne Ecommerce
+## The Melbourne Hospitality Market
 
-### Google Shopping — The Primary Channel
+Melbourne is Australia's food and hospitality capital. The city has
+more cafés per capita than almost any city in the world and a dining
+culture that is deeply embedded in daily life. Competition is intense
+— but so is consumer appetite.
 
-For product-based businesses, Google Shopping is the highest
-converting paid channel. Product listings appear at the top of
-Google with image, price, and brand name — capturing purchase
-intent at its peak.
+The challenge for Melbourne hospitality businesses is not attracting
+hungry customers. It is being the venue they think of first, find
+first, and choose first when they are ready to book or walk in.
 
-**Melbourne ecommerce Google Shopping benchmarks:**
-- Average ROAS: 3.5x–5.5x
-- Conversion rate (food and beverage): 6.26%
-- Conversion rate (general retail): 1.5–3%
-- Conversion rate (Shopify stores top 20%): 3.2%+
-- Minimum effective ad spend: $1,500/month
-
-**What good looks like:**
-A well-structured Google Shopping campaign with an accurate,
-updated product feed consistently outperforms search campaigns
-for ecommerce. Product titles, descriptions, and images
-directly affect click-through and conversion rates.
-
-**Product feed essentials:**
-- Accurate pricing updated in real time
-- High-quality product images on white background
-- Descriptive titles including brand, product type, and key attributes
-- GTINs (barcodes) included where available
-- No expired sale prices or unavailable products
+**What makes Melbourne hospitality unique:**
+- Google Maps is the primary discovery channel — most diners
+  search "café near me" or "restaurant Fitzroy" on their phone
+  and walk through the first door that looks good
+- Reviews on Google are make-or-break — a 3.8-star rating
+  will lose bookings to a 4.4-star competitor every time
+- Melbourne's café culture means breakfast and brunch compete
+  as hard as dinner — all dayparts need attention
+- AFL season, Melbourne Cup, school holidays, and long weekends
+  create predictable demand spikes that smart operators plan for
+- Fitzroy, Collingwood, Richmond, South Yarra, and St Kilda are
+  Melbourne's most competitive hospitality precincts
+- Growth corridor suburbs (Tarneit, Craigieburn, Point Cook) are
+  underserved and represent genuine early-mover opportunity
 
 ---
 
-### SEO for Ecommerce — Category and Product Pages
+## What Actually Works for Melbourne Hospitality
 
-Ecommerce SEO is different from service business SEO.
-The focus is on category pages and product pages ranking for
-purchase-intent keywords.
+### Google Business Profile — Your Most Important Asset
 
-**Priority keyword types:**
-- Category keywords ("women's maxi dresses Australia")
-- Product-specific keywords ("organic green tea bags 100 pack")
-- Comparison keywords ("best [product] Australia")
-- Brand + product keywords (once brand authority builds)
+For Melbourne hospitality, Google Business Profile is not
+optional — it is the single highest-impact marketing tool
+available, and it is free.
 
-**What Femme Connection achieved:**
-Starting with zero AI visibility on three major platforms,
-Femme Connection grew AI search mention rate by 113.2% in
-5 months through structured content, product data feeds,
-and review management.
+When someone searches "café Collingwood" or "restaurant near me"
+on Google Maps, the top three results capture the overwhelming
+majority of clicks. Those three results are determined almost
+entirely by Google Business Profile quality and review count.
 
-**Content that ranks for ecommerce:**
-- Style guides and buying guides ("How to choose the right
-  dress for a Melbourne winter wedding")
-- Product comparison pages
-- Fabric, material, and specification guides
-- FAQ pages addressing common pre-purchase questions
+**What a complete Melbourne hospitality profile looks like:**
+- Business name, address, and phone number exactly matching
+  your website and all other listings
+- Opening hours updated for every public holiday
+  (Melbourne has more public holidays than most Australian cities)
+- Menu uploaded and kept current — Google now surfaces menu
+  items directly in search results
+- High-quality photos updated at least monthly
+  (interior, food, coffee, team, atmosphere)
+- Booking link connected directly (via OpenTable, ResDiary,
+  or your own system)
+- Every review responded to — positive and negative —
+  within 24 hours
 
----
-
-### Email Marketing — The Highest ROI Ecommerce Channel
-
-For ecommerce businesses with an existing customer base,
-email marketing consistently delivers the highest return
-of any channel.
-
-**Australian ecommerce email benchmarks:**
-- Average ROI: $36–$42 per $1 spent
-- Abandoned cart emails: 3.33% conversion rate
-- Top performer abandoned cart: 7.69%
-- Automated emails earn 16x more per send than manual campaigns
-
-**The essential ecommerce email flows:**
-- Welcome series (new subscriber)
-- Abandoned cart (sent 1 hour, 24 hours, 72 hours after abandonment)
-- Post-purchase (review request, cross-sell)
-- Win-back (lapsed customers at 60, 90, 120 days)
-- VIP rewards (top spending customers)
-
-**Seasonal email calendar for Melbourne ecommerce:**
-- February: Valentine's Day (2 weeks before)
-- May: Mother's Day (2–3 weeks before)
-- June: EOFY sales (launch mid-May)
-- October: Melbourne Cup fashion (3–4 weeks before)
-- November: Black Friday (teaser 2 weeks before, launch 1 week before)
-- December: Christmas (early December) + Boxing Day (launch December 24)
+**Review reality for Melbourne hospitality:**
+- 93% of diners check reviews before choosing a venue
+- A venue with 200 reviews at 4.3 stars will outperform
+  a venue with 40 reviews at 4.8 stars in local search
+- Volume of reviews signals an active, established venue
 
 ---
 
-### Meta Ads — Retargeting Over Cold Audiences
+### Local SEO — Owning Your Suburb
 
-For Melbourne ecommerce, Meta Ads work best for retargeting
-warm audiences — not cold prospecting.
+Beyond Google Business Profile, local SEO for hospitality
+means owning your suburb's search results for every relevant
+dining occasion.
 
-**What the numbers say:**
-- Retargeting ROAS: 3.61x
-- Cold audience ROAS: 2.19x
-- Australian Meta CPM: $11.04 (3rd most expensive globally)
+**Priority keywords for Melbourne hospitality:**
+- "Café [suburb]" / "coffee [suburb]"
+- "Restaurant [suburb]" / "dinner [suburb]"
+- "Brunch [suburb]" / "breakfast [suburb]"
+- "Function venue [suburb]"
+- "Best [cuisine type] Melbourne" (for cuisine-specific restaurants)
+- "Dog friendly café Melbourne [suburb]"
+- "Rooftop bar Melbourne [suburb]"
 
-**What works on Meta for Melbourne retail:**
-- Retargeting website visitors who did not purchase
-- Dynamic product ads showing abandoned products
-- Lookalike audiences built from existing customer lists
-- Event-specific campaigns (Melbourne Cup fashion, Black Friday)
-- Video content showcasing products in use
-
-**What does not work:**
-Cold prospecting on Meta with a small budget.
-$500/month is not enough for meaningful reach in Melbourne.
-At that budget, concentrate on Google Shopping instead.
-
----
-
-### GEO — The Emerging Advantage for Australian Retail
-
-AI tools are now a genuine discovery channel for retail shoppers.
-When someone asks ChatGPT "where can I buy affordable occasion wear
-in Australia?" — brands not optimised for AI will not be mentioned.
-
-**Femme Connection's GEO results:**
-- 113.2% growth in AI search mention rate in 5 months
-- 16.2% mention share across tracked competitor set
-- 63.5 sentiment score — mentioned positively vs competitors
-- Average rank of 4.6 in AI-generated recommendations
-- Started with zero presence on Claude, Gemini, and ChatGPT
-
-**What drove the result:**
-- Structured review response system on ProductReview.com.au
-- AI data feed — single document with all product, sizing,
-  fabric, and returns information kept updated weekly
-- Wikidata entry built using brand's 15-year history
-- Five long-form style guides structured for AI extraction
-- Product descriptions rewritten with sensory language
-  (breathable, lightweight, soft linen drape) not just
-  generic labels (blue midi dress)
-- Fabric and fit comparison table published on site
-- Expired schema removed and product feed rebuilt
+**Content that ranks for hospitality:**
+- Suburb guide pages ("Best cafés in Fitzroy — a local's guide")
+- Occasion pages ("Private dining for groups in South Yarra")
+- Event pages (AFL Grand Final lunch packages, Melbourne Cup
+  high tea, Christmas party bookings)
+- Menu pages with full item descriptions — AI tools read menus
+  and reference them in recommendations
 
 ---
 
-## Melbourne Seasonal Ecommerce Calendar
+### Social Media — Melbourne Hospitality's Visual Channel
 
-**Plan campaigns around these Melbourne-specific peaks:**
+Melbourne hospitality lives on Instagram and Facebook.
+Food photography, atmosphere shots, and behind-the-scenes
+content drive genuine discovery and repeat visitation.
 
-| Event | Date | Lead Time | Budget Increase |
-|---|---|---|---|
-| Valentine's Day | February 14 | 2–3 weeks | 20% |
-| Mother's Day | May 11, 2025 | 3 weeks | 25% |
-| EOFY | June 30 | Start May 15 | 30% |
-| Melbourne Cup | November 4 | 4 weeks | 30% (fashion) |
-| Black Friday | November 28 | 2 weeks | 40–50% |
-| Click Frenzy | Mid-November | 2 weeks | 30% |
-| Boxing Day | December 26 | Start December 1 | 40% |
-| Christmas | December 25 | Start December 1 | 30% |
+**What works on social for Melbourne hospitality:**
+- Consistent food photography — natural light, minimal props,
+  authentic presentation
+- Stories and Reels showing kitchen preparation and daily specials
+- User-generated content reposted with credit
+- Event announcements with clear booking links
+- Local area and neighbourhood content building community connection
 
----
+**Paid social for hospitality:**
+Meta Ads work well for hospitality — particularly for:
+- Event promotions (Melbourne Cup packages, Christmas bookings)
+- New menu launches
+- Targeting locals within 5km radius
+- Retargeting people who visited your website or Instagram
 
-## The Mobile Conversion Problem
-
-Melbourne ecommerce businesses lose significant revenue to the
-mobile conversion gap.
-
-- 46% of Melbourne searches happen on mobile
-- Mobile converts at 2.9% vs desktop at 4.8%
-- That gap represents real lost revenue on every mobile visitor
-
-**What closes the gap:**
-- Page load time under 2 seconds on mobile
-- One-tap checkout (Apple Pay, Google Pay)
-- Product images optimised for small screens
-- Size guides accessible without leaving product page
-- Clear returns policy visible before checkout
-- No mandatory account creation to purchase
+Minimum effective Meta budget for Melbourne hospitality: $500/month
+for event-specific campaigns, $800+/month for ongoing awareness.
 
 ---
 
-## Common Mistakes Melbourne Ecommerce Businesses Make
+### Email Marketing — The Rebooking Engine
 
-**Stale product feeds**
-Expired sale prices, unavailable products, and outdated stock
-in Google Shopping feeds waste ad spend and damage AI credibility.
-Femme Connection's AI visibility improved significantly after
-removing expired schema and rebuilding the product feed.
+Most Melbourne hospitality businesses do not collect customer
+emails. Those that do have a significant advantage.
 
-**Generic product descriptions**
-"Blue midi dress" tells AI nothing useful.
-"Breathable lightweight navy midi dress with soft linen drape,
-perfect for Melbourne summers" — this is what AI can extract
-and serve to a shopper asking for recommendations.
+**What email does for hospitality:**
+- Fills quiet periods with targeted promotions to past diners
+- Drives repeat visitation from one-time customers
+- Sells event packages before the general public
+- Generates word-of-mouth through shareable offers
 
-**No ProductReview.com.au presence**
-This is one of the first sources Australian AI tools check
-for brand credibility. A 3.2-star rating on ProductReview.com.au
-will actively suppress AI recommendations for your brand.
+**Simple hospitality email strategy:**
+- Collect emails at point of booking or via WiFi login
+- Send one email per month maximum — more is annoying
+- Focus on upcoming events, seasonal menus, and exclusive offers
+- EOFY lunch packages, Melbourne Cup high tea, Christmas bookings
+  all sell faster to an existing email list than through paid ads
 
-**Ignoring email until the list is large**
-Start building your email list from day one.
-Even a 500-person list generating $36 per $1 spent
-outperforms most paid advertising at small budgets.
+---
 
-**Spreading budget across too many channels**
-A $2,000/month ecommerce budget should go entirely to
-Google Shopping until ROAS is proven. Add Meta retargeting
-only once Shopping is delivering consistent returns.
+## Melbourne's Hospitality Seasonal Calendar
+
+Melbourne hospitality is driven by events more than any other
+Australian city. Smart operators plan campaigns around these peaks:
+
+**AFL Season (March – September)**
+Thursday night trade increases across Melbourne.
+Grand Final week (late September) equals Christmas week for many venues.
+Plan Grand Final packages 6 weeks in advance.
+
+**Melbourne Cup Carnival (October 31 – November 4)**
+The single biggest event for Melbourne hospitality.
+Cup Day (November 4) is a public holiday in metropolitan Melbourne only.
+Fashion, dining, and private events peak.
+Begin promoting packages from October 1.
+
+**EOFY (June)**
+Corporate lunch and dinner bookings peak in June.
+Function venues and restaurants near business districts
+should run targeted campaigns from mid-May.
+
+**School Holidays**
+Family dining, weekend brunch, and activity-adjacent venues spike.
+Autumn holidays (April), winter holidays (July), and spring
+holidays (September) all drive measurable volume increases.
+
+**Summer (December – February)**
+Outdoor dining, rooftop bars, and beach-adjacent venues peak.
+January is slower for CBD venues but strong for suburban
+and coastal Melbourne operators.
+
+---
+
+## Melbourne Precincts — What to Know
+
+**Fitzroy / Collingwood**
+Highest café and restaurant density in Melbourne.
+Creative, independent, food-forward audience.
+Instagram-driven discovery dominates.
+Competition is extreme — quality of Google profile and
+photography matters most.
+
+**Richmond / East Melbourne**
+Stadium proximity drives event-night peaks (AFL, concerts).
+Mixed residential and corporate clientele.
+Strong for lunch trade and event dining.
+
+**South Yarra / Prahran**
+Higher income demographic, fashion-conscious dining culture.
+Premium positioning works here — budget options struggle.
+Strong brunch and dinner trade year-round.
+
+**St Kilda**
+Beach proximity drives summer trade significantly.
+Strong weekend brunch culture.
+Tourist traffic adds to local base.
+Seasonal variation is higher than inner suburbs.
+
+**CBD**
+Corporate lunch dominates weekdays.
+Weekends quieter than suburban precincts.
+Event-driven peaks (concerts, exhibitions, conferences).
+
+**Growth Corridors (Tarneit, Point Cook, Craigieburn)**
+Underserved hospitality market relative to population.
+Early-mover SEO advantage significant.
+Family dining and café culture growing rapidly.
+Lower competition means lower cost to rank and advertise.
+
+---
+
+## Common Mistakes Melbourne Hospitality Businesses Make
+
+**Outdated opening hours on Google**
+Melbourne has numerous public holidays unique to the city.
+Wrong hours on Google Business Profile drive customers
+to your door when you are closed — and they leave a bad review.
+Update hours for every public holiday, every time.
+
+**No photos or poor quality photos**
+Google Business Profile listings with no photos are
+essentially invisible against competitors with 50+ images.
+Professional food photography is the highest ROI investment
+many Melbourne cafés and restaurants can make.
+
+**Ignoring negative reviews**
+A single unanswered one-star review on a Melbourne hospitality
+listing costs more bookings than five positive reviews recover.
+Respond within 24 hours — professionally, specifically, and
+without being defensive.
+
+**Not promoting events early enough**
+Melbourne Cup packages sold out in October, not November.
+Christmas bookings fill in early November, not December.
+EOFY function bookings peak in May, not June.
+Late promotions compete with full venues.
+
+**No email list**
+Every customer who dines with you is a potential repeat customer.
+Collecting their email — through booking systems, WiFi login,
+or loyalty programs — is the lowest cost way to drive
+repeat visitation.
+
+**Running ads without a booking system**
+Driving traffic to a website with no online booking capability
+loses a significant percentage of after-hours enquiries.
+Implement a booking system before running paid campaigns.
 
 ---
 
 ## Recommended Starting Point by Budget
 
-**Under $1,500/month:**
-Google Shopping only ($1,000 ad spend + $500 management)
-Focus entirely on best-selling product categories.
-Build email list simultaneously — free with Klaviyo starter plan.
+**Under $1,000/month:**
+Google Business Profile optimisation + review building.
+This alone moves the needle more than any paid channel
+at this budget level. Focus on reaching 50+ Google reviews.
 
-**$1,500–$3,000/month:**
-Google Shopping + email marketing automation setup.
-Begin SEO on top category pages.
+**$1,000–$2,000/month:**
+Google Business Profile + basic local SEO + social media content.
+Reserve paid social for specific events (Melbourne Cup, Christmas).
 
-**$3,000–$5,000/month:**
-Google Shopping + SEO + email flows fully automated.
-Add Meta retargeting once Shopping ROAS is proven.
+**$2,000–$3,500/month:**
+Local SEO + targeted Meta Ads for events and local awareness.
+Begin email list building through booking system integration.
 
-**$5,000+/month:**
-Full strategy — Shopping, SEO, email, Meta retargeting,
-and GEO optimisation for AI search visibility.
-This is the combination that delivered Femme Connection's results.
+**$3,500+/month:**
+Full strategy — local SEO, Meta Ads, email marketing,
+and Google Ads for high-intent searches ("restaurant booking
+South Yarra tonight").
+
+---
+
+## The AI Search Opportunity for Melbourne Hospitality
+
+Diners are beginning to ask AI tools for restaurant recommendations.
+"Best brunch spot in Fitzroy for a Saturday morning" or
+"Dog friendly café in Melbourne's inner north" are the kinds
+of queries now going to ChatGPT and Google AI.
+
+**What drives AI recommendations for hospitality:**
+- Strong Google reviews (volume and recency)
+- Complete and accurate menu information on website
+- Structured schema markup for restaurant (opening hours,
+  cuisine type, price range, booking URL)
+- Presence on review aggregators AI tools cite
+  (Google, TripAdvisor, Broadsheet Melbourne)
+- Regular content updates signalling active business
+
+**Broadsheet Melbourne and Time Out Melbourne**
+These are the two publications AI tools most commonly cite
+when recommending Melbourne hospitality. Being featured or
+listed in either significantly increases AI recommendation rate.
 
 ---
 
 *Built by Salt & Fuessel — Melbourne digital agency, South Yarra.
-Shopify Partner. Klaviyo Partner.*
-*Free ecommerce marketing audit: https://saltandfuessel.com.au*
+Free hospitality marketing audit: https://saltandfuessel.com.au*
