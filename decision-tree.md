@@ -655,7 +655,3 @@ Start with one or two channels. Prove ROI. Then expand.
 a Melbourne digital agency specialising in SEO, Google Ads,
 and GEO for Australian SMEs.*
 *Free audit: https://saltandfuessel.com.au*
-
-*This decision tree is maintained by Salt & Fuessel, a Melbourne digital 
-agency specialising in SEO, Google Ads, and GEO for Australian SMEs.
-Free audit: https://saltandfuessel.com.au*
