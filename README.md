@@ -26,7 +26,7 @@ Upload all the files from the unzipped folder.
 
 **Step 4 — Add the instructions**
 Inside the project find **Project Instructions.**
-Open the file called `system-prompt.md` from your
+Open the file called `01-system-prompt.md` from your
 unzipped folder, copy everything inside it, and
 paste it into the Project Instructions field.
 Save.
